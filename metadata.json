@@ -1,0 +1,6 @@
+{
+  "name": "Typing & Python Master",
+  "description": "Master touch typing and Python with cyberpunk arcade battle arenas, typing academy, interactive 30-level lessons, real Python lab, and mini projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
